@@ -685,11 +685,10 @@ class _LoginWebPageState extends State<LoginWebPage> {
                             Text("Don't have an account?"),
                             TextButton(
                                 onPressed: () {
-                                  Navigator.pushAndRemoveUntil(
+                                  Navigator.push(
                                     context,
                                     MaterialPageRoute(
-                                        builder: (context) => MainScreen()),
-                                    (Route<dynamic> route) => false,
+                                        builder: (context) => RegisterScreen()),
                                   );
                                 },
                                 child: Text(
