@@ -1,16 +1,13 @@
-# anime_app
+# Anime Info
 
-A new Flutter project.
+This application is an application that can provide information about anime. This application uses Dart programming language and can display in mobile and web.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mobile
+1. Register Screen <br>
+![Register screen](https://drive.google.com/uc?id=1_sT9oT3HfgehdYn6ntb8WJ_vhc65W9NI)
+2. Login Screen <br>
+![Register screen](https://drive.google.com/uc?id=1cRmTtz2MG8qWY-XujFgN9psAB-xqSh3F)
+3. Main Screen <br>
+![Main screen](https://drive.google.com/uc?id=14p_e4O4ZpWCFw0zaqB083ZE2oxB-_TsD)
+4. Detail Screen <br>
+![Detail screen](https://drive.google.com/uc?id=1OBWpQy4W31Uitu_6Cmix0I4UmEWXB2P0)
